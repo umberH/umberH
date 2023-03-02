@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @umberH, Ambreen Hanif. PhD studet at Macquarie University.
-- 👀 I’m interested in transparency and expplainability of artificial intelligence techniques. 
+- 👋 Hi, I’m @umberH, Ambreen Hanif. PhD student at Macquarie University.
+- 👀 I’m interested in transparency and explainability of artificial intelligence techniques. 
 - 🌱 I’m currently working on Explainable Artificial Intelligence, Graph based Machine Learning Algorithms .
 - 💞️ I’m looking to work on XAI for ML model developing story telling for XAI.
 - 🌱 I am also google Ambassador for 2022-2023. 
